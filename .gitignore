@@ -1,0 +1,4 @@
+# created by virtualenv automatically
+../venv/Lib
+/instaparser/__init__.py
+/instaparser/spiders/__init__.py
